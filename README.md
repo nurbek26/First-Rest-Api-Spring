@@ -219,3 +219,4 @@ This project demonstrates a simple REST API built with Spring Boot using layered
 ## H2 Console
 
 ![H2 Console](screenshots/h2-console.png)
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/32457d1d-b48e-4ad6-bc76-56e4ce0415af" />
