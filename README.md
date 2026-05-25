@@ -124,7 +124,8 @@ Response:
   "name": "First Product"
 }
 
-Screenshot:<img width="1919" height="1128" alt="image" src="https://github.com/user-attachments/assets/5ad05fa1-d30e-46ca-aef0-63ee0a752333" />
+<img width="1919" height="1128" alt="post png" src="https://github.com/user-attachments/assets/1911fbc2-e39f-4ffe-adbb-cc6d085474b9" />
+
 
 
 Find Product
@@ -136,7 +137,9 @@ Response:
   "name": "First Product"
 }
 
-Screenshot: <img width="1918" height="1197" alt="Screenshot 2026-05-23 113252" src="https://github.com/user-attachments/assets/bbba6390-5fd5-4bdb-90c8-5c8795443939" />
+<img width="1918" height="1197" alt="get png" src="https://github.com/user-attachments/assets/53b99908-fee4-41a1-a203-c2c11a3aa557" />
+
+
 
 
 Update Product
@@ -148,7 +151,8 @@ Response:
   "name": "Updated Product"
 }
 
-Screenshot: <img width="1918" height="1198" alt="Screenshot 2026-05-23 113748" src="https://github.com/user-attachments/assets/96b7c10b-1134-45d6-b858-93ef6664e7da" />
+<img width="1918" height="1193" alt="put png" src="https://github.com/user-attachments/assets/bc6c7633-6e4d-4487-a9fe-3e4552133911" />
+
 
 
 Delete Product
@@ -157,7 +161,7 @@ Status:
 
 204 No Content
 
-Screenshot: <img width="1918" height="1198" alt="Screenshot 2026-05-23 113619" src="https://github.com/user-attachments/assets/8062c05f-833e-4395-8f27-459d6216ad2e" />
+<img width="1918" height="1198" alt="delete png" src="https://github.com/user-attachments/assets/11871310-6f79-4180-9321-e9aaed390f51" />
 
 
 Product Not Found
@@ -168,7 +172,8 @@ Response:
   "message": "Product with 1 not found"
 }
 
-Screenshot: <img width="1918" height="1198" alt="Screenshot 2026-05-23 113748" src="https://github.com/user-attachments/assets/d3597d1e-be1f-4c30-ad4d-b3fda205ee36" />
+<img width="1918" height="1198" alt="error png" src="https://github.com/user-attachments/assets/19f0b1c7-64d9-44bd-8904-4ad34f534ef4" />
+
 
 
 6. Summary
