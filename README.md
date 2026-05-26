@@ -124,7 +124,7 @@ Response:
   "name": "First Product"
 }
 
-!{screnshot}https://github.com/user-attachments/assets/ae91be96-8fe4-47f3-b09c-264c0205b13a)
+!{screnshot}https://github.com/nurbek26/First-Rest-Api-Spring/blob/master/screenshots/post.png.png)
 
 
 
