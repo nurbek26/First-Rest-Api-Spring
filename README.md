@@ -161,7 +161,8 @@ Status:
 
 204 No Content
 
-<img width="1918" height="1198" alt="delete png" src="https://github.com/user-attachments/assets/11871310-6f79-4180-9321-e9aaed390f51" />
+
+![Delete Product](https://github.com/user-attachments/assets/11871310-6f79-4180-9321-e9aaed390f51)
 
 
 Product Not Found
